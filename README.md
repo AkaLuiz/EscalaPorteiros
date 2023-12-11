@@ -1,0 +1,1 @@
+Recentemente observei que meu pai fazia frequentemente uma tabela de porteiros para a igreja que frequentamos, ao ver que era pura lógica me coloquei no desafio de fazer um programa que fizesse a escala de forma automática
